@@ -1,5 +1,6 @@
 --!native
 --!strict
+--// ported to lua by nebulimity
 
 local MapGenerator = {}
 
